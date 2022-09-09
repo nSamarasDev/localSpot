@@ -1,0 +1,2 @@
+# localSpot
+new remote localhost
